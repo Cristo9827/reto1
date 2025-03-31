@@ -4,3 +4,8 @@
 
 ##Nueva rama develop
 
+##Nuevo commit para Story
+
+#Nuevo commit en el bug
+
+##Nuevo commit desde task
